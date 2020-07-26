@@ -7,3 +7,6 @@
   pixels in the logo solid. 
   
   I have included an example of a case where this might be useful.
+  
+  Looking forward, it might be interesting to have the ability to change the shape of the 
+  "protected area" to something like an oval or rectangle
